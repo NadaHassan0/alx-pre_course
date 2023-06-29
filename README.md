@@ -1,1 +1,1 @@
-This is a README file for the root directory.
+This is a sample README file.
